@@ -21,6 +21,7 @@ public class HelloWorld {
         System.out.println("hello");
         System.out.println("hotfix");
         System.out.println("master-test");
+        System.out.println("hotfix-test");
         return "hello1";
     }
 }
